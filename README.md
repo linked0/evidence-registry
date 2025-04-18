@@ -25,3 +25,5 @@ npm run test-all
 ## Disclaimer
 
 GLHF!
+
+## History
